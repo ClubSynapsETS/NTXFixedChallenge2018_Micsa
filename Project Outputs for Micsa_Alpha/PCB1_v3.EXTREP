@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PCB1_v3.GBR   2018-03-13  14:07:21
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top                                     
+.GTO                Top Overlay                             
+.G1                 Signal Layer 1                          
+.GBS                Bottom Solder                           
+.GTS                Top Solder                              
+.G2                 Signal Layer 2                          
+.GTP                Top Paste                               
+.GBL                Bottom                                  
+.GBO                Bottom Overlay                          
+.GBP                Bottom Paste                            
+.GKO                Keep-Out Layer                          
+.GM1                Mechanical 1                            
+.GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
+.GML                Multi-Layer                             
+.7                  Dielectric 3                            
+.4                  Dielectric 2                            
+.GM32767            Route Guide                             
+.1                  Dielectric 1                            
+------------------------------------------------------------------------------------------

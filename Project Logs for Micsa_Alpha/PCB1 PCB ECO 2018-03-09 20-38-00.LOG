@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=Main Member=PC/PB
+Change Component Description : Designator=RBI_OUT Old Description=1 MOhms ±0.1% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Anti-Sulfur, Automotive AEC-Q200 Thin Film New Description=1 MOhms ±0.1% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Anti-Sulfur, Automotive AEC-Q200 Thin Film
+
+Added Pin To Net: NetName=NetST-Link/V2_13 Pin=ST-Link/V2-13
+Added Net: Name=NetST-Link/V2_13
+Added Room: Name=AMP_filtreV2
+Added Room: Name=Main

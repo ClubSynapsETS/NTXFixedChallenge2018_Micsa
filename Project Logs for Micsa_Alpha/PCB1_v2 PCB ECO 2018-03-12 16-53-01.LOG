@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetADC_47 Pin=ADS/IN/OUT-4
+Removed Pin From Net: NetName=NetADC_34 Pin=ADS/IN/OUT-5
+Added Pin To Net: NetName=NetADC_34 Pin=ADS/IN/OUT-4
+Added Pin To Net: NetName=NetADC_47 Pin=ADS/IN/OUT-5
+Added Member To Class: ClassName=Main Member=Component POWER Header 6
+Added Room: Name=AMP_filtreV2
+Added Room: Name=Main
