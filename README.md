@@ -5,5 +5,5 @@ Youtube:
 https://www.youtube.com/watch?v=JW_LclxpcAc
 
 please visit the following Gdrive for all the files:
-https://github.com/ClubSynapsETS/NTXOpenChallenge2018_Micsa
+https://drive.google.com/drive/folders/1CGrlnjlovTj_BCUJ8xUeY5m6uN_gnNdw?usp=sharing
 
