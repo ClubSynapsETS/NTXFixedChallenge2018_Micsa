@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=NetADC_47 Pin=ADS/IN/OUT-5
-Removed Pin From Net: NetName=NetADC_36 Pin=ADS/IN/OUT-6
-Added Pin To Net: NetName=NetADC_36 Pin=ADS/IN/OUT-5
-Added Pin To Net: NetName=NetADC_47 Pin=ADS/IN/OUT-6
-Added Room: Name=AMP_filtreV2
-Added Room: Name=Main

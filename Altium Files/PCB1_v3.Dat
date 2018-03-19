@@ -1,0 +1,19 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Micsa_Alpha.PrjPCB|ReportField=ProjectFullPath~C:\Users\Public\Documents\Altium\MICSA\Micsa_Alpha.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [PCB1_v3.PcbDoc]|ReportField=ReportTime~10:50:45|ReportField=ReportDate~2018-03-16|ReportField=ReportDateTime~2018-03-16 10:50:45|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~52|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=DataSourceFileName~PCB1_v3.PcbDoc|ReportField=DataSourceFullPath~C:\Users\Public\Documents\Altium\MICSA\PCB1_v3.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Header 9X2A|Header, 9-Pin, Dual row|A/B, J/H|HDR2X9_CEN|Header 9X2A|2
+2|ADS1299-4PAG|IC AFE 4-CH 24BIT 64TQFP|ADC|QFP64P50_1200X1200X120L60X22N|ADS1299-4PAG|1
+3|Header 12|Header, 12-Pin|ADS/IN/OUT|HDR1X12|Header 12|1
+4|TPD4E1B06DCKR|TVS DIODE 5.5VWM 14.5VC SC70-6|ANTI_STAT1, ANTI_STAT2|SC70-6|TPD4E1B06DCKR|2
+5|Header 5|Header, 5-Pin|CG1, CG2, CG3, CG7, CG8, CG9, CH_Input|HDR1X5|Header 5|7
+6|LMK107B7105KA-T|1µF ±10% 10V Ceramic Capacitor X7R 0603 (1608 Metric)|C_AVDD1, C_AVDD2, C_BI, C_DVDD, C_VCAP2, C_VCAP31|0603 (1608 Metric)|Cap|6
+7|C1206C106J8RACTU|10µF ±5% 10V Ceramic Capacitor X7R 1206 (3216 Metric)|C_FPFN, Cf0, Cf00, Cf0_2, Cf1, Cf1_2, Cf2, Cf2_2, Cf11, Cf22|1206 (3216 Metric)|Cap|10
+8|JMK325BJ107MM-T|100µF ±20% 6.3V Ceramic Capacitor X5R 1210 (3225 Metric)|C_VCAP1|1210 (3225 Metric)|Cap|1
+9|C1206C104F3GACTU|0.1µF ±1% 25V Ceramic Capacitor C0G, NP0 1206 (3216 Metric)|C_VCAP32|1206 (3216 Metric)|Cap|1
+10|STM32F205RGY6TR|ARM Cortex-M3 32-bit MCU, 1024 KB Flash, 128 KB Internal RAM, 51 I/Os, 66-pin WLCSP, -40 to 85 degC, Tape and Reel|MCU|STM-WLCSP64+2|STM32F205RGY6TR|1
+11|INA118P|Precision, Low Power Instrumentation Amplifier, -40 to 85 degC, 8-pin DIP (P8), Green (RoHS & no Sb/Br)|OP1, OP2, OP3|TI-P8|INA118P|3
+12|Header 6|Header, 6-Pin|POWER|HDR1X6|Header 6|1
+13|Res2|5 kOhms ±0.1% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thin Film|R1, RG2|1206 (3216 Metric) RES|Res2|2
+14|RG3216P-1004-B-T1|1 MOhms ±0.1% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Anti-Sulfur, Automotive AEC-Q200 Thin Film|RBI_OUT|1206 (3216 Metric) RES|Res2|1
+15|RC1206FR-07390RL|390 Ohms ±1% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film, Resistor|Rf00, Rf0, Rf0_2, Rf1, Rf1_2, Rf2, Rf2_2, Rf11, Rf22|1206 (3216 Metric) RES|Res2|9
+16|RT1206BRD075KL|5 kOhms ±0.1% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thin Film|RG3|1206 (3216 Metric) RES|Res2|1
+17|RT1206BRD07330KL|330 kOhms ±0.1% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thin Film|R_GPIO, RBI_PROT|1206 (3216 Metric) RES|Res2|2
+18|XG4C-2031|Header, 10-Pin, Dual row|ST-Link/V2|HDR2X10|Header 10X2|1

@@ -1,0 +1,239 @@
+Removed Member From Class: ClassName=Main Member=PA/Autre
+Added Component: Designator=A/B(HDR2X9_CEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=CG1(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=CG2(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=CG3(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=CG7(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=CG8(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=CG9(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J/H(HDR2X9_CEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DVDD Pin=A/B-8
+Added Pin To Net: NetName=GNDA Pin=A/B-10
+Added Pin To Net: NetName=DVDD Pin=CG1-3
+Added Pin To Net: NetName=GNDA Pin=CG1-4
+Added Pin To Net: NetName=GNDA Pin=CG8-2
+Added Pin To Net: NetName=DVDD Pin=CG9-2
+Added Pin To Net: NetName=GNDA Pin=J/H-18
+Added Pin To Net: NetName=NetA/B_1 Pin=A/B-1
+Added Pin To Net: NetName=NetA/B_1 Pin=MCU-A1
+Added Pin To Net: NetName=NetA/B_1 Pin=ST-Link/V2-9
+Added Net: Name=NetA/B_1
+Added Pin To Net: NetName=NetA/B_2 Pin=A/B-2
+Added Pin To Net: NetName=NetA/B_2 Pin=MCU-A2
+Added Pin To Net: NetName=NetA/B_2 Pin=ST-Link/V2-5
+Added Net: Name=NetA/B_2
+Added Pin To Net: NetName=NetA/B_3 Pin=A/B-3
+Added Pin To Net: NetName=NetA/B_3 Pin=MCU-A3
+Added Net: Name=NetA/B_3
+Added Pin To Net: NetName=NetA/B_4 Pin=A/B-4
+Added Pin To Net: NetName=NetA/B_4 Pin=MCU-A4
+Added Pin To Net: NetName=NetA/B_4 Pin=ST-Link/V2-13
+Added Net: Name=NetA/B_4
+Added Pin To Net: NetName=NetA/B_5 Pin=A/B-5
+Added Pin To Net: NetName=NetA/B_5 Pin=MCU-A5
+Added Net: Name=NetA/B_5
+Added Pin To Net: NetName=NetA/B_6 Pin=A/B-6
+Added Pin To Net: NetName=NetA/B_6 Pin=MCU-A6
+Added Net: Name=NetA/B_6
+Added Pin To Net: NetName=NetA/B_7 Pin=A/B-7
+Added Pin To Net: NetName=NetA/B_7 Pin=MCU-A7
+Added Net: Name=NetA/B_7
+Added Pin To Net: NetName=NetA/B_9 Pin=A/B-9
+Added Pin To Net: NetName=NetA/B_9 Pin=MCU-A9
+Added Net: Name=NetA/B_9
+Added Pin To Net: NetName=NetA/B_11 Pin=A/B-11
+Added Pin To Net: NetName=NetA/B_11 Pin=MCU-B2
+Added Pin To Net: NetName=NetA/B_11 Pin=ST-Link/V2-7
+Added Net: Name=NetA/B_11
+Added Pin To Net: NetName=NetA/B_12 Pin=A/B-12
+Added Pin To Net: NetName=NetA/B_12 Pin=MCU-B3
+Added Net: Name=NetA/B_12
+Added Pin To Net: NetName=NetA/B_13 Pin=A/B-13
+Added Pin To Net: NetName=NetA/B_13 Pin=MCU-B4
+Added Net: Name=NetA/B_13
+Added Pin To Net: NetName=NetA/B_14 Pin=A/B-14
+Added Pin To Net: NetName=NetA/B_14 Pin=MCU-B5
+Added Net: Name=NetA/B_14
+Added Pin To Net: NetName=NetA/B_15 Pin=A/B-15
+Added Pin To Net: NetName=NetA/B_15 Pin=MCU-B6
+Added Net: Name=NetA/B_15
+Added Pin To Net: NetName=NetA/B_16 Pin=A/B-16
+Added Pin To Net: NetName=NetA/B_16 Pin=MCU-B7
+Added Net: Name=NetA/B_16
+Added Pin To Net: NetName=NetA/B_17 Pin=A/B-17
+Added Pin To Net: NetName=NetA/B_17 Pin=MCU-B8
+Added Net: Name=NetA/B_17
+Added Pin To Net: NetName=NetA/B_18 Pin=A/B-18
+Added Pin To Net: NetName=NetA/B_18 Pin=MCU-B9
+Added Net: Name=NetA/B_18
+Added Pin To Net: NetName=NetCG1_1 Pin=CG1-1
+Added Pin To Net: NetName=NetCG1_1 Pin=MCU-C1
+Added Net: Name=NetCG1_1
+Added Pin To Net: NetName=NetCG1_2 Pin=CG1-2
+Added Pin To Net: NetName=NetCG1_2 Pin=MCU-D1
+Added Net: Name=NetCG1_2
+Added Pin To Net: NetName=NetCG1_5 Pin=CG1-5
+Added Pin To Net: NetName=NetCG1_5 Pin=MCU-G1
+Added Net: Name=NetCG1_5
+Added Pin To Net: NetName=NetCG2_1 Pin=CG2-1
+Added Pin To Net: NetName=NetCG2_1 Pin=MCU-C2
+Added Net: Name=NetCG2_1
+Added Pin To Net: NetName=NetCG2_2 Pin=CG2-2
+Added Pin To Net: NetName=NetCG2_2 Pin=MCU-D2
+Added Net: Name=NetCG2_2
+Added Pin To Net: NetName=NetCG2_3 Pin=CG2-3
+Added Pin To Net: NetName=NetCG2_3 Pin=MCU-E2
+Added Net: Name=NetCG2_3
+Added Pin To Net: NetName=NetCG2_4 Pin=CG2-4
+Added Pin To Net: NetName=NetCG2_4 Pin=MCU-F2
+Added Net: Name=NetCG2_4
+Added Pin To Net: NetName=NetCG2_5 Pin=CG2-5
+Added Pin To Net: NetName=NetCG2_5 Pin=MCU-G2
+Added Net: Name=NetCG2_5
+Added Pin To Net: NetName=NetCG3_1 Pin=CG3-1
+Added Pin To Net: NetName=NetCG3_1 Pin=MCU-C3
+Added Net: Name=NetCG3_1
+Added Pin To Net: NetName=NetCG3_2 Pin=CG3-2
+Added Pin To Net: NetName=NetCG3_2 Pin=MCU-D3
+Added Net: Name=NetCG3_2
+Added Pin To Net: NetName=NetCG3_3 Pin=CG3-3
+Added Pin To Net: NetName=NetCG3_3 Pin=MCU-E3
+Added Net: Name=NetCG3_3
+Added Pin To Net: NetName=NetCG3_4 Pin=CG3-4
+Added Pin To Net: NetName=NetCG3_4 Pin=MCU-F3
+Added Net: Name=NetCG3_4
+Added Pin To Net: NetName=NetCG3_5 Pin=CG3-5
+Added Pin To Net: NetName=NetCG3_5 Pin=MCU-G3
+Added Net: Name=NetCG3_5
+Added Pin To Net: NetName=NetCG7_1 Pin=CG7-1
+Added Pin To Net: NetName=NetCG7_1 Pin=MCU-C7
+Added Net: Name=NetCG7_1
+Added Pin To Net: NetName=NetCG7_2 Pin=CG7-2
+Added Pin To Net: NetName=NetCG7_2 Pin=MCU-D7
+Added Net: Name=NetCG7_2
+Added Pin To Net: NetName=NetCG7_3 Pin=CG7-3
+Added Pin To Net: NetName=NetCG7_3 Pin=MCU-E7
+Added Net: Name=NetCG7_3
+Added Pin To Net: NetName=NetCG7_4 Pin=CG7-4
+Added Pin To Net: NetName=NetCG7_4 Pin=MCU-F7
+Added Net: Name=NetCG7_4
+Added Pin To Net: NetName=NetCG7_5 Pin=CG7-5
+Added Pin To Net: NetName=NetCG7_5 Pin=MCU-G7
+Added Net: Name=NetCG7_5
+Added Pin To Net: NetName=NetCG8_1 Pin=CG8-1
+Added Pin To Net: NetName=NetCG8_1 Pin=MCU-C8
+Added Net: Name=NetCG8_1
+Added Pin To Net: NetName=NetCG8_3 Pin=CG8-3
+Added Pin To Net: NetName=NetCG8_3 Pin=MCU-E8
+Added Net: Name=NetCG8_3
+Added Pin To Net: NetName=NetCG8_4 Pin=CG8-4
+Added Pin To Net: NetName=NetCG8_4 Pin=MCU-F8
+Added Net: Name=NetCG8_4
+Added Pin To Net: NetName=NetCG8_5 Pin=CG8-5
+Added Pin To Net: NetName=NetCG8_5 Pin=MCU-G8
+Added Net: Name=NetCG8_5
+Added Pin To Net: NetName=NetCG9_1 Pin=CG9-1
+Added Pin To Net: NetName=NetCG9_1 Pin=MCU-C9
+Added Net: Name=NetCG9_1
+Added Pin To Net: NetName=NetCG9_3 Pin=CG9-3
+Added Pin To Net: NetName=NetCG9_3 Pin=MCU-E9
+Added Net: Name=NetCG9_3
+Added Pin To Net: NetName=NetCG9_4 Pin=CG9-4
+Added Pin To Net: NetName=NetCG9_4 Pin=MCU-F9
+Added Net: Name=NetCG9_4
+Added Pin To Net: NetName=NetCG9_5 Pin=CG9-5
+Added Pin To Net: NetName=NetCG9_5 Pin=MCU-G9
+Added Net: Name=NetCG9_5
+Added Pin To Net: NetName=NetJ/H_1 Pin=J/H-1
+Added Pin To Net: NetName=NetJ/H_1 Pin=MCU-J1
+Added Net: Name=NetJ/H_1
+Added Pin To Net: NetName=NetJ/H_2 Pin=J/H-2
+Added Pin To Net: NetName=NetJ/H_2 Pin=MCU-J2
+Added Net: Name=NetJ/H_2
+Added Pin To Net: NetName=NetJ/H_3 Pin=J/H-3
+Added Pin To Net: NetName=NetJ/H_3 Pin=MCU-J3
+Added Net: Name=NetJ/H_3
+Added Pin To Net: NetName=NetJ/H_4 Pin=J/H-4
+Added Pin To Net: NetName=NetJ/H_4 Pin=MCU-J4
+Added Net: Name=NetJ/H_4
+Added Pin To Net: NetName=NetJ/H_5 Pin=J/H-5
+Added Pin To Net: NetName=NetJ/H_5 Pin=MCU-J5
+Added Net: Name=NetJ/H_5
+Added Pin To Net: NetName=NetJ/H_6 Pin=J/H-6
+Added Pin To Net: NetName=NetJ/H_6 Pin=MCU-J6
+Added Net: Name=NetJ/H_6
+Added Pin To Net: NetName=NetJ/H_7 Pin=J/H-7
+Added Pin To Net: NetName=NetJ/H_7 Pin=MCU-J7
+Added Net: Name=NetJ/H_7
+Added Pin To Net: NetName=NetJ/H_8 Pin=J/H-8
+Added Pin To Net: NetName=NetJ/H_8 Pin=MCU-J8
+Added Net: Name=NetJ/H_8
+Added Pin To Net: NetName=NetJ/H_9 Pin=J/H-9
+Added Pin To Net: NetName=NetJ/H_9 Pin=MCU-J9
+Added Net: Name=NetJ/H_9
+Added Pin To Net: NetName=NetJ/H_10 Pin=J/H-10
+Added Pin To Net: NetName=NetJ/H_10 Pin=MCU-H1
+Added Net: Name=NetJ/H_10
+Added Pin To Net: NetName=NetJ/H_11 Pin=J/H-11
+Added Pin To Net: NetName=NetJ/H_11 Pin=MCU-H2
+Added Net: Name=NetJ/H_11
+Added Pin To Net: NetName=NetJ/H_12 Pin=J/H-12
+Added Pin To Net: NetName=NetJ/H_12 Pin=MCU-H3
+Added Net: Name=NetJ/H_12
+Added Pin To Net: NetName=NetJ/H_13 Pin=J/H-13
+Added Pin To Net: NetName=NetJ/H_13 Pin=MCU-H4
+Added Net: Name=NetJ/H_13
+Added Pin To Net: NetName=NetJ/H_14 Pin=J/H-14
+Added Pin To Net: NetName=NetJ/H_14 Pin=MCU-H5
+Added Net: Name=NetJ/H_14
+Added Pin To Net: NetName=NetJ/H_15 Pin=J/H-15
+Added Pin To Net: NetName=NetJ/H_15 Pin=MCU-H6
+Added Net: Name=NetJ/H_15
+Added Pin To Net: NetName=NetJ/H_16 Pin=J/H-16
+Added Pin To Net: NetName=NetJ/H_16 Pin=MCU-H7
+Added Net: Name=NetJ/H_16
+Added Pin To Net: NetName=NetJ/H_17 Pin=J/H-17
+Added Pin To Net: NetName=NetJ/H_17 Pin=MCU-H8
+Added Net: Name=NetJ/H_17
+Added Member To Class: ClassName=Main Member=Component A/B Header 9X2A
+Added Member To Class: ClassName=Main Member=Component CG1 Header 5
+Added Member To Class: ClassName=Main Member=Component CG2 Header 5
+Added Member To Class: ClassName=Main Member=Component CG3 Header 5
+Added Member To Class: ClassName=Main Member=Component CG7 Header 5
+Added Member To Class: ClassName=Main Member=Component CG8 Header 5
+Added Member To Class: ClassName=Main Member=Component CG9 Header 5
+Added Member To Class: ClassName=Main Member=Component J/H Header 9X2A
+Added Room: Name=AMP_filtreV2
+Added Room: Name=Main
